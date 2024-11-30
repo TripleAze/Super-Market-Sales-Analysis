@@ -55,7 +55,6 @@ This project provides an in-depth analysis of a supermarket's sales data to unco
 3. **Customer Demographics:**  
    - Insights into sales and ratings segmented by gender and customer type.  
 
-   ![Sales by Gender](example_sales_by_gender.png)
 
 4. **Payment Preferences:**  
    - Frequency and average sales by payment method.  
