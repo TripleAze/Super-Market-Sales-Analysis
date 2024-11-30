@@ -47,12 +47,10 @@ This project provides an in-depth analysis of a supermarket's sales data to unco
 1. **Branch Performance:**  
    - Total sales and gross income aggregated and visualized for each branch.  
 
-   ![Branch Sales](example_branch_sales.png)
 
 2. **Product Line Analysis:**  
    - Sales performance by product line to identify the most profitable categories.  
 
-   ![Product Line Sales](example_product_line_sales.png)
 
 3. **Customer Demographics:**  
    - Insights into sales and ratings segmented by gender and customer type.  
@@ -62,17 +60,13 @@ This project provides an in-depth analysis of a supermarket's sales data to unco
 4. **Payment Preferences:**  
    - Frequency and average sales by payment method.  
 
-   ![Payment Preferences](example_payment_preferences.png)
-
 5. **Time-Based Trends:**  
    - Hourly transaction counts and daily sales patterns analyzed to identify peak business hours.  
 
-   ![Hourly Transactions](example_hourly_transactions.png)
 
 6. **Customer Ratings:**  
    - Product line-wise average customer satisfaction ratings visualized.  
 
-   ![Ratings by Product Line](example_ratings_by_product_line.png)
 
 ---
 
