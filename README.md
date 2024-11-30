@@ -95,17 +95,15 @@ This project provides an in-depth analysis of a supermarket's sales data to unco
 4. **Payment Methods:** Credit Card was the most frequently used method across branches.  
 5. **Peak Hours Insight:**
 Midday Peak (12 PM to 2 PM):
-Sales activity aligns with lunchtime, showing increased customer footfall during this period.
+  Sales activity aligns with lunchtime, showing increased customer footfall during this period.
 
 Evening Peak (6 PM to 7 PM):
 The busiest hour, likely due to customers shopping after work or school.
 
 Implication:
-These patterns highlight the need for optimal staff scheduling during midday and evening hours to manage the high traffic efficiently and improve customer service.
+  These patterns highlight the need for optimal staff scheduling during midday and evening hours to manage the high traffic efficiently and improve customer service.
 
--Evening (6 PM to 7 PM):
--The busiest hour, likely driven by customers shopping after work or school.
--These trends suggest the importance of optimal staff scheduling during these high-traffic periods to ensure smooth operations and enhance customer satisfaction.
+  -These trends suggest the importance of optimal staff scheduling during these high-traffic periods to ensure smooth operations and enhance customer satisfaction.
 
 
 
