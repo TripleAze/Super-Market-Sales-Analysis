@@ -93,7 +93,18 @@ This project provides an in-depth analysis of a supermarket's sales data to unco
 2. **Product Line:** The **Electronics** category outperformed others in sales, while **Home and Lifestyle** received the highest ratings.  
 3. **Customer Type:** Members contributed higher average sales than non-members.  
 4. **Payment Methods:** Credit Card was the most frequently used method across branches.  
-5. **Peak Hours:** Sales activity peaked between **12 PM and 2 PM**, aligning with lunch hours.  
+5.Peak Hours Insight:
+Sales activity shows two distinct peaks:
+
+Midday (12 PM to 2 PM):
+
+Aligns with lunchtime, indicating higher customer footfall during this period.
+Evening (6 PM to 7 PM):
+
+The busiest hour, likely driven by customers shopping after work or school.
+These trends suggest the importance of optimal staff scheduling during these high-traffic periods to ensure smooth operations and enhance customer satisfaction.
+
+
 
 ---
 
